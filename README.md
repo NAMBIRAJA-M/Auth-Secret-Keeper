@@ -31,7 +31,7 @@ Create a .env file in the root directory and add the following:
 
 PORT=3000
 
-POSTGRES_URI=your_mongodb_connection_string
+POSTGRES_URI=your_postgres_connection_string
 
 SESSION_SECRET=your_session_secret
 
