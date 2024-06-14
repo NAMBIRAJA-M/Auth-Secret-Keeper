@@ -17,3 +17,17 @@ Auth Secret Keeper is a web application that provides authentication using both 
 
 ```bash
 npm install
+
+### Start the application
+
+```bash
+npm start
+```
+### Technologies
+- **Node.js and Express for server-side logic
+- **Passport.js for authentication
+- **Postgres for database operations
+- **EJS for templating and rendering views
+- **dotenv for environment variable management
+- **bcryptjs for password hashing
+
