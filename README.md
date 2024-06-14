@@ -4,12 +4,12 @@ Auth Secret Keeper is a web application that provides authentication using both 
 
 ## Features
 
-- **Local Authentication:** Users can register and log in using a username and password.
-- **Google Authentication:** Users can log in using their Google account.
-- **Session Management:** Secure session handling using express-session.
-- **Secret Keeper:** Store and manage personal secrets associated with user accounts.
-- **Environment Variables:** Configuration using environment variables for security and flexibility.
-- **Postgres Integration:** Persistent storage of user credentials and secrets.
+- Local Authentication:** Users can register and log in using a username and password.
+- Google Authentication:** Users can log in using their Google account.
+- Session Management:** Secure session handling using express-session.
+- Secret Keeper:** Store and manage personal secrets associated with user accounts.
+- Environment Variables:** Configuration using environment variables for security and flexibility.
+- Postgres Integration:** Persistent storage of user credentials and secrets.
 
 ## Installation
 
