@@ -17,7 +17,7 @@ Auth Secret Keeper is a web application that provides authentication using both 
 
 ```bash
 npm install
-
+```
 ### Start the application
 
 ```bash
